@@ -1194,9 +1194,13 @@ footer .contact-form button.filled-button:hover {
   display: inline-block;
   transition: all 0.3s;
 }
-.tabs-content img {
+.tabs-content .attributed-image{
 	max-width: 100%;
 	overflow: hidden;
+	text-align: center;
+}
+.tabs-content img {
+	max-width: 100%;
 }
 .tabs-content h4 {
 	font-size: 20px;
