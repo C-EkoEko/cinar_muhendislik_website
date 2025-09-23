@@ -20,7 +20,7 @@ jQuery( document ).ready(function( $ ) {
             }, 300);
         });       
 
-        $(window).scroll(function() {
+        /*$(window).scroll(function() {
           var scroll = $(window).scrollTop();
           var box = $('.header-text').height();
           var header = $('header').height();
@@ -30,7 +30,7 @@ jQuery( document ).ready(function( $ ) {
           } else {
             $("header").removeClass("background-header");
           }
-        });
+        });*/
 		if ($('.owl-testimonials').length) {
             $('.owl-testimonials').owlCarousel({
                 loop: true,

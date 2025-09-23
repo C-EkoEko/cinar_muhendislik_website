@@ -1063,6 +1063,7 @@ footer .contact-form button.filled-button:hover {
 	background-color: #343434;
 	text-align: center;
 	padding: 25px 0px;
+	margin-top: 25px;
 }
 
 .sub-footer p {
@@ -1082,7 +1083,7 @@ footer .contact-form button.filled-button:hover {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding: 230px 0px 150px 0px;
+	padding: 300px 0px 150px 0px;
 	color: #fff;
 }
 
